@@ -8,10 +8,11 @@ Bem vindo(a), eu me chamo Marselle,  sou estudante de Análise e Desenvolvimento
 * Java
 * JavaScript
 * Bootstrap
+* WordPress
 * Web Design
 
 ### Estudando atualmente 📖:
-* Wordpress como CMS
+* WordPress como CMS
 * JavaScript
 * Java 
 
