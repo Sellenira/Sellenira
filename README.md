@@ -2,7 +2,7 @@
 
 Bem vindo(a), eu me chamo Marselle,  sou estudante de Análise e Desenvolvimento de Sistemas e nas horas vagas leitora de fantasia 📚
 
-###Conhecimentos 🚀:
+### Conhecimentos 🚀:
 * CSS3
 * HTML5
 * Java
@@ -10,12 +10,12 @@ Bem vindo(a), eu me chamo Marselle,  sou estudante de Análise e Desenvolvimento
 * Bootstrap
 * Web Design
 
-###Estudando atualmente 📖:
+### Estudando atualmente 📖:
 * Wordpress como CMS
 * JavaScript
 * Java 
 
-###Quero aprender 🔖:
+### Quero aprender 🔖:
 * Sass
 * React
 * JQuery
