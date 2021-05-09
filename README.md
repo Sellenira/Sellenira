@@ -18,7 +18,7 @@ Bem vindo(a), eu me chamo Marselle,  sou estudante de Análise e Desenvolvimento
 * Java 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sellenira&layout=compact&text_color=daf7dc&bg_color=151515" width="400"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sellenira&layout=compact&text_color=daf7dc&bg_color=151515" width="500"/>
 </a>
 
 ### Quero aprender 🔖:
