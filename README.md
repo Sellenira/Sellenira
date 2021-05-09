@@ -1,5 +1,5 @@
 # Olá  🙋🏻‍♀️  
-<img align="right" alt="Image" src="![IMG-4483](https://user-images.githubusercontent.com/78499911/117580096-a0a64400-b0cc-11eb-8369-67709fad3c61.jpg)" width="500"/>
+<img align="right" alt="Image" src="https://user-images.githubusercontent.com/78499911/117580096-a0a64400-b0cc-11eb-8369-67709fad3c61.jpg" width="500"/>
 
 Bem vindo(a), eu me chamo Marselle,  sou estudante de Análise e Desenvolvimento de Sistemas e nas horas vagas leitora de fantasia 📚
 
