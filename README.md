@@ -28,4 +28,9 @@ Bem vindo(a), eu me chamo Marselle,  sou estudante de Análise e Desenvolvimento
 * Vue.js
 
 Também é possível me encontrar aqui: <br/><br/>
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Sellenira)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marselle-nira-ignácio-994920135/)
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/marselle.ignacio/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:maahnira@gmail.com)
+
 [![Linkedin Badge](https://img.shields.io/badge/-Marselle%20Nira%20Ignácio-880808?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marselle-nira-ignácio-994920135/)](https://www.linkedin.com/in/marselle-nira-ignácio-994920135/) [![Gmail Badge](https://img.shields.io/badge/-maahnira@gmail.com-880808?style=flat-square&logo=Gmail&logoColor=white&link=mailto:maahnira@gmail.com)](mailto:maahnira@gmail.com)
