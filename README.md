@@ -1,4 +1,4 @@
-kkkkkkkkkkkkkkkkkkkkk# Olá  🙋🏻‍♀️  
+# Olá  🙋🏻‍♀️  
 <img align="right" alt="Image" src="https://user-images.githubusercontent.com/78499911/117580898-853d3800-b0d0-11eb-8cd2-821ebac9f852.png" width="400"/>
 
 Bem vindo(a), eu me chamo Marselle,  sou estudante de Análise e Desenvolvimento de Sistemas e nas horas vagas leitora de fantasia 📚
