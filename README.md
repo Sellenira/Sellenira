@@ -17,6 +17,10 @@ Bem vindo(a), eu me chamo Marselle,  sou estudante de Análise e Desenvolvimento
 * JavaScript
 * Java 
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sellenira&layout=compact&text_color=daf7dc&bg_color=151515" />
+</a>
+
 ### Quero aprender 🔖:
 * Sass
 * React
@@ -25,7 +29,3 @@ Bem vindo(a), eu me chamo Marselle,  sou estudante de Análise e Desenvolvimento
 
 Também é possível me encontrar aqui: <br/><br/>
 [![Linkedin Badge](https://img.shields.io/badge/-Marselle%20Nira%20Ignácio-880808?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marselle-nira-ignácio-994920135/)](https://www.linkedin.com/in/marselle-nira-ignácio-994920135/) [![Gmail Badge](https://img.shields.io/badge/-maahnira@gmail.com-880808?style=flat-square&logo=Gmail&logoColor=white&link=mailto:maahnira@gmail.com)](mailto:maahnira@gmail.com)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sellenira&layout=compact&text_color=daf7dc&bg_color=151515" />
-</a>
