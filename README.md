@@ -24,6 +24,7 @@ Bem vindo(a), eu me chamo Marselle,  sou estudante de Análise e Desenvolvimento
 ### Quero aprender 🔖:
 * Sass
 * React
+* Angular
 * JQuery
 * Vue.js
 
