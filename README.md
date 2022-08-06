@@ -1,7 +1,7 @@
 # Olá  🙋🏻‍♀️  
 <img align="right" alt="Image" src="https://user-images.githubusercontent.com/78499911/117580898-853d3800-b0d0-11eb-8cd2-821ebac9f852.png" width="450"/>
 
-Bem vindo(a), eu me chamo Marselle,  sou estudante de Análise e Desenvolvimento de Sistemas e nas horas vagas leitora de fantasia 📚
+Bem vindo(a), eu me chamo Marselle, sou formada em Análise e Desenvolvimento de Sistemas e atualmente trabalho como Analista de Testes.
 
 ### Conhecimentos 🚀:
 * CSS3
@@ -9,24 +9,24 @@ Bem vindo(a), eu me chamo Marselle,  sou estudante de Análise e Desenvolvimento
 * Java
 * JavaScript
 * Bootstrap
+* C#
+* MySQL
+* Python
 * WordPress
 * Web Design
 
 ### Estudando atualmente 📖:
-* WordPress como CMS
 * JavaScript
-* Java 
+* Java
+* C#
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sellenira&layout=compact&text_color=daf7dc&bg_color=151515" width="450"/>
 </a>
 
 ### Quero aprender 🔖:
-* Sass
-* React
 * Angular
-* JQuery
-* Vue.js
+* React
 
 Também é possível me encontrar aqui: <br/><br/>
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Sellenira)
