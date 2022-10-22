@@ -9,24 +9,19 @@ Bem vindo(a), eu me chamo Marselle, sou formada em Análise e Desenvolvimento de
 * Java
 * JavaScript
 * Bootstrap
-* C#
 * MySQL
-* Python
-* WordPress
 * Web Design
 
 ### Estudando atualmente 📖:
 * JavaScript
-* Java
-* C#
+* React
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sellenira&layout=compact&text_color=daf7dc&bg_color=151515" width="450"/>
 </a>
 
 ### Quero aprender 🔖:
-* Angular
-* React
+* Saas
 
 Também é possível me encontrar aqui: <br/><br/>
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Sellenira)
