@@ -1,5 +1,4 @@
 # Olá  🙋🏻‍♀️  
-<img align="right" alt="Image" src="https://user-images.githubusercontent.com/78499911/117580898-853d3800-b0d0-11eb-8cd2-821ebac9f852.png" width="450"/>
 
 Bem vindo(a), eu me chamo Marselle, sou formada em Análise e Desenvolvimento de Sistemas e atualmente trabalho como Analista de Testes.
 
@@ -14,7 +13,8 @@ Bem vindo(a), eu me chamo Marselle, sou formada em Análise e Desenvolvimento de
 ### Estudando atualmente 📖:
 * Java
 * Spring Boot
-
+  
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sellenira&layout=compact&text_color=daf7dc&bg_color=151515" width="450"/>
 </a>
 
